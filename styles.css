@@ -4,4 +4,58 @@
 
 /* write your rules below  this line*/
 
+.dark-bg{
+    background-color: #1e1e1e;
+}
+
+.light-text{
+        color: #ffffff;
+}
+
+.rounded{
+     border-radius: 10px;
+}
+
+.spaced-out{
+    padding: 20px;
+}
+
+.page-title{
+    font-size: 48px;
+    text-align: center;
+}
+
+.card{
+    background-color: aquamarine;
+    border: 1px;
+    padding: 1px;
+}
+
+.warning{
+    color: red;
+}
+
+.img-style{
+    border: 2 px;
+    border-radius: rounded;
+}
+
+.Aea{
+    background-color: seashell;
+    border-radius: rounded;
+    padding: 10px;
+}
+
+#Aea{
+    background: black;
+    color: lightblue;
+    text-align: center;
+}
+
+
+
+
+
+
+
 
